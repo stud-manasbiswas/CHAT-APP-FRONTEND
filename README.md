@@ -33,7 +33,7 @@ The application is fully **Dockerized**, supports **OTP-based authentication**, 
 ![Realtime Messages](./Pictures/realtime-message-chatapp.png)  
 
 ### 👤 Profile Page  
-![Profile](./Pictures/profile-pg-section.)  
+![Profile](./Pictures/profile-pg-section.png)  
 
 ---
 
